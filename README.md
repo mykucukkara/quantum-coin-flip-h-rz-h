@@ -3,7 +3,8 @@
 Bu proje, ayarlanabilir bir kuantum "yazı-tura" deneyini interaktif olarak gösteren tek sayfalık bir web uygulamasıdır.
 
 ## Kuantum Devresi
-
+[www.mykucukkara.git](https://mykucukkara.github.io/quantum-coin-flip-h-rz-h/
+)
 Uygulama şu kuantum devresini simüle eder:
 
 ```
