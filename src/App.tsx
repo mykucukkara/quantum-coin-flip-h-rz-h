@@ -62,6 +62,10 @@ function App() {
           </div>
         </div>
       </main>
+
+      <footer className="app-footer">
+        <p>Muhammed Yusuf Küçükkara - Furkan Atban</p>
+      </footer>
     </div>
   );
 }

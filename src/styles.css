@@ -460,3 +460,21 @@ body {
   }
 }
 
+/* Footer */
+.app-footer {
+  margin-top: 40px;
+  padding: 12px 20px;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  border-top: 1px solid #e0e0e0;
+}
+
+.app-footer p {
+  margin: 0;
+  font-size: 0.9rem;
+  color: #666;
+  font-weight: 500;
+}
+
