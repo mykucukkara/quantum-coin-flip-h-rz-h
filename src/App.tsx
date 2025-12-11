@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { ControlPanel } from './components/ControlPanel';
 import { ProbabilityDisplay } from './components/ProbabilityDisplay';
 import { SimulationResults } from './components/SimulationResults';
